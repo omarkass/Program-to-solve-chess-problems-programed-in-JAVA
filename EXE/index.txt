@@ -1,0 +1,2 @@
+Aquest directori conte els executables per provar les classes o funcionalitats implementades i jocs d’assaig. 
+Hi ha un subdirectori per cada classe a provar, amb els executables necessaris, les dades del joc d’assaig i la descripcio d’aquest.

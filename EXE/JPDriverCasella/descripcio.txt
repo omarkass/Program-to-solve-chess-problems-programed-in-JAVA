@@ -1,0 +1,8 @@
+·Objecte de la prova: Casella.java
+·Drivers: DriverCasella.java 
+	-Comprovem les constructores per defecte i amb valors.
+	-Comprovem les consultores i setters dels diferents atributs
+·Testejat amb White Box
+·Operativa:
+java -jar DriverCasella.jar <JPDriverCasellaEntrada.txt >out.txt
+diff -w out.txt JPDriverCasellaSortida.txt

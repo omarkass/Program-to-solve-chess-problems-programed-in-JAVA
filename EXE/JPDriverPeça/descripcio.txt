@@ -1,0 +1,10 @@
+·Objecte de la prova: Peça.java
+·Drivers: DriverPeça.java 
+	-Comprovem les constructores per defected i amb valors.
+	-Comprovem els getters i setters dels diferents atributs.
+	-Comprovem els possibles moviments d'una peça.
+·Instancies de Classes: Coordinada, Tauler, Casella.
+·Testejat amb White Box
+·Operativa:
+java -jar DriverPeça.jar <JPDriverPeçaEntrada.txt >out.txt
+diff -w out.txt JPDriverPeçaSortida.txt

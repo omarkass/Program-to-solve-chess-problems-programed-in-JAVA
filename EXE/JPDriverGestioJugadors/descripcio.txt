@@ -1,0 +1,13 @@
+·Objecte de la prova: GestioJugadors.java
+·Drivers: DriverGestioJugadors.java 
+	-Testejem la base de dades Jugadors.
+		*Creant Jugadors.
+		*Eliminant Jugadors.
+		*Modificant Jugadors.
+		*Llistant els Jugadors.
+	-Jugadors no repetits
+	-BD existeix (control d'excepcions).
+·Testejat amb White Box
+·Operativa:
+java -jar DriverGestioJugadors.jar 
+Executar i entrar els valors de JPDriverPartida.txt

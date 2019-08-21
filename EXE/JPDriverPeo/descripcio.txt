@@ -1,0 +1,11 @@
+·Objecte de la prova: Peo.java
+·Drivers: Peo.java 
+	-Comprovem les constructores per defecte i amb valors.
+	-Mirem que l'usuari no pugui entrar caselles fora de rang.
+	-Obtenim els possibles moviments de la peça.
+·Es subclasse de Peça.
+·Valors estudiats: <0 i >=8
+·Testejat amb White Box
+·Operativa:
+java -jar DriverPeo.jar <JPDriverPeoEntrada.txt >out.txt
+diff -w out.txt JPDriverPeoSortida.txt

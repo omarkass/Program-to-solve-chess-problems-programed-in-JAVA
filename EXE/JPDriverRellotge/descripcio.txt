@@ -1,0 +1,8 @@
+·Objecte de la prova: Rellotge.java
+·Drivers: DriverRellotge.java 
+	-Comprovem la constructora per defecte
+	-Comprovem el rellotge per al jugador 1
+·Testejat amb White Box
+·Operativa:
+java -jar DriverRellotge.jar <JPDriverRellotgeEntrada.txt >out.txt
+java -jar DriverRellotge.jar <JPDriverRellotgeEntrada.txt >out.txt

@@ -1,0 +1,11 @@
+·Objecte de la prova: Moviment.java
+·Drivers: DriverMoviment.java 
+	-Comprovem la constructora amb valors.
+	-Comprovem les consultores i setters dels diferents atributs
+	-Busquem el rei en un dins el conjunt de peces
+	-Comprovem si un moviment causa escac
+·Instancies de Classes: Peça, Coordinada, Tauler.
+·Testejat amb White Box
+·Operativa:
+java -jar DriverMoviment.jar <JPDriverMovimentEntrada.txt >out.txt
+diff -w out.txt JPDriverMovimentSortida.txt

@@ -1,0 +1,126 @@
+Driver Casella
+Eligueix quin métode vols comprovar: 
+
+0) Sortit 
+1) Constructora per defecte 
+2) Constructora amb valors Fila i Columna 
+3) Consultora fila 
+4) Consultora columna 
+5) Consultora ocupat
+7) Set fila 
+8) Set columna  
+9) Set peça
+Creacio d'una casella per defecte amb valors de fila 0 i de columna 0
+
+0) Sortit 
+1) Constructora per defecte 
+2) Constructora amb valors Fila i Columna 
+3) Consultora fila 
+4) Consultora columna 
+5) Consultora ocupat
+7) Set fila 
+8) Set columna  
+9) Set peça
+Quin valor de fila voleu?
+Quin valor de columna voleu?
+Creacio d'una casella per defecte amb valors de fila 4 i de columna 7
+
+0) Sortit 
+1) Constructora per defecte 
+2) Constructora amb valors Fila i Columna 
+3) Consultora fila 
+4) Consultora columna 
+5) Consultora ocupat
+7) Set fila 
+8) Set columna  
+9) Set peça
+Quin valor de fila voleu?
+Quin valor de fila voleu?
+Quin valor de fila voleu?
+Quin valor de columna voleu?
+Quin valor de columna voleu?
+Quin valor de columna voleu?
+Creacio d'una casella per defecte amb valors de fila 5 i de columna 7
+
+0) Sortit 
+1) Constructora per defecte 
+2) Constructora amb valors Fila i Columna 
+3) Consultora fila 
+4) Consultora columna 
+5) Consultora ocupat
+7) Set fila 
+8) Set columna  
+9) Set peça
+La fila és: 5
+
+0) Sortit 
+1) Constructora per defecte 
+2) Constructora amb valors Fila i Columna 
+3) Consultora fila 
+4) Consultora columna 
+5) Consultora ocupat
+7) Set fila 
+8) Set columna  
+9) Set peça
+La columna és: 7
+
+0) Sortit 
+1) Constructora per defecte 
+2) Constructora amb valors Fila i Columna 
+3) Consultora fila 
+4) Consultora columna 
+5) Consultora ocupat
+7) Set fila 
+8) Set columna  
+9) Set peça
+L'estat d'ocupació és: false
+
+0) Sortit 
+1) Constructora per defecte 
+2) Constructora amb valors Fila i Columna 
+3) Consultora fila 
+4) Consultora columna 
+5) Consultora ocupat
+7) Set fila 
+8) Set columna  
+9) Set peça
+Quin valor de fila voleu?
+Quin valor de fila voleu?
+Quin valor de fila voleu?
+La nova fila és: 3
+
+0) Sortit 
+1) Constructora per defecte 
+2) Constructora amb valors Fila i Columna 
+3) Consultora fila 
+4) Consultora columna 
+5) Consultora ocupat
+7) Set fila 
+8) Set columna  
+9) Set peça
+Quin valor de columna voleu?
+Quin valor de columna voleu?
+Quin valor de columna voleu?
+La nova columna és: 0
+
+0) Sortit 
+1) Constructora per defecte 
+2) Constructora amb valors Fila i Columna 
+3) Consultora fila 
+4) Consultora columna 
+5) Consultora ocupat
+7) Set fila 
+8) Set columna  
+9) Set peça
+La nova peça es: r 0,0
+
+0) Sortit 
+1) Constructora per defecte 
+2) Constructora amb valors Fila i Columna 
+3) Consultora fila 
+4) Consultora columna 
+5) Consultora ocupat
+7) Set fila 
+8) Set columna  
+9) Set peça
+Finalització del Driver Casella

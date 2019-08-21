@@ -1,0 +1,10 @@
+·Objecte de la prova: Problema.java
+·Drivers: DriverProblema.java 
+	-Testejem la classe Problema
+		*Constructora per defecte.
+		*Constructora amb valors.
+		*Getters i setters de tots els atributs.
+·Testejat amb White Box
+·Operativa:
+java -jar DriverProblema.jar <JPDriverProblemaEntrada.txt >out.txt
+diff -w out.txt JPDriverProblemaSortida.txt

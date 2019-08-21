@@ -1,0 +1,437 @@
+Entorn de resolució de Problemes d'Escacs
+
+--Inici d'usuari--
+0) Continuar sense registrar-se
+1) Registrar-se com a usuari
+2) Iniciar sessió
+Jugador temporal creat amb nom: Anonim
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Quin es el nom del problema?
+Quin es el FEN del problema?
+Format del FEN incorrecte Files Majors a 8. Torna a entrar el FEN
+Error en la ultima fila. S'ha entrat un nombre incorrecte de caselles. Torna a entrar el FEN
+Format del FEN incorrecte: Files menors de 8. Torna a entrar el FEN
+Error en la ultima fila. S'ha entrat un nombre incorrecte de caselles. Torna a entrar el FEN
+Format Incorrecte: Color al que l'hi toca moure incorrecte. Torna a entrar el FEN
+Format Incorrecte. Torna a entrar el FEN
+Format Incorrecte. Torna a entrar el FEN
+Format Incorrecte. Torna a entrar el FEN
+Format Incorrecte. Torna a entrar el FEN
+Format Incorrecte. Torna a entrar el FEN
+FEN correcte
+Quin es el nombre de torns per arribar al mat?
+Quina es la dificultat del problema?
+Voleu guardar aquest problema en la base de dades?
+0: Si 1: No
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Problemes disponibles: 
+Problema1,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1,2,2
+Quin problema vols modificar?
+Problema0 no existeix a la base de dades
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Quin es el nom del problema?
+Aquest nom ja es troba utilitzat
+Quin es el nom del problema?
+Quin es el FEN del problema?
+FEN correcte
+Quin es el nombre de torns per arribar al mat?
+Quina es la dificultat del problema?
+Voleu guardar aquest problema en la base de dades?
+0: Si 1: No
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Problemes disponibles: 
+Problema1,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1,2,2
+Problema2,5B1b/1p2rR2/8/1B4N1/K2kP3/5n1R/1N6/2Q5 w - - 0 1,2,2
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Problemes disponibles: 
+Problema1,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1,2,2
+Problema2,5B1b/1p2rR2/8/1B4N1/K2kP3/5n1R/1N6/2Q5 w - - 0 1,2,2
+Quin problema vols modificar?
+Que voleu modificar del problema?
+1) NOM
+2) FEN
+3) N
+4) DIFICULTAT
+Quin es el nou nom?
+Ja existeix una instancia a la base de dades amb el nomProblema2
+ Entra un altre nom
+Nom canviat correctament
+Voleu modificar-lo a la base de dades?
+0: Si 1: No
+Base de Dades Actualitzada 
+
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Problemes disponibles: 
+Problema2,5B1b/1p2rR2/8/1B4N1/K2kP3/5n1R/1N6/2Q5 w - - 0 1,2,2
+P1,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1,2,2
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Problemes disponibles: 
+Problema2,5B1b/1p2rR2/8/1B4N1/K2kP3/5n1R/1N6/2Q5 w - - 0 1,2,2
+P1,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1,2,2
+Quin es el nom del problema que voleu eliminar?
+Aquest nom no existeix
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Problemes disponibles: 
+Problema2,5B1b/1p2rR2/8/1B4N1/K2kP3/5n1R/1N6/2Q5 w - - 0 1,2,2
+P1,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1,2,2
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Problemes disponibles: 
+Problema2,5B1b/1p2rR2/8/1B4N1/K2kP3/5n1R/1N6/2Q5 w - - 0 1,2,2
+P1,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1,2,2
+Quin problema vols modificar?
+Que voleu modificar del problema?
+1) NOM
+2) FEN
+3) N
+4) DIFICULTAT
+Quin es el nou FEN?
+FEN Correcte
+Voleu modificar-lo a la base de dades?
+0: Si 1: No
+Base de Dades Actualitzada 
+
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Problemes disponibles: 
+P1,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1,2,2
+Problema2,2n5/5PB1/2p1NK2/5B1b/1Pp4p/P1kp1P1n/Q4p2/5N1r w - - 0 1,2,2
+Quin problema vols modificar?
+Que voleu modificar del problema?
+1) NOM
+2) FEN
+3) N
+4) DIFICULTAT
+Quin es el nou N?
+N canviada correctament
+Voleu modificar-lo a la base de dades?
+0: Si 1: No
+Base de Dades Actualitzada 
+
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Problemes disponibles: 
+Problema2,2n5/5PB1/2p1NK2/5B1b/1Pp4p/P1kp1P1n/Q4p2/5N1r w - - 0 1,2,2
+P1,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1,3,2
+Quin problema vols modificar?
+Que voleu modificar del problema?
+1) NOM
+2) FEN
+3) N
+4) DIFICULTAT
+Quina es la nova dificultat?
+Dificultat Canviada correctament
+Voleu modificar-lo a la base de dades?
+0: Si 1: No
+Base de Dades Actualitzada 
+
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Problemes disponibles: 
+Problema2,2n5/5PB1/2p1NK2/5B1b/1Pp4p/P1kp1P1n/Q4p2/5N1r w - - 0 1,2,2
+P1,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1,3,1
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Problemes disponibles: 
+Problema2,2n5/5PB1/2p1NK2/5B1b/1Pp4p/P1kp1P1n/Q4p2/5N1r w - - 0 1,2,2
+P1,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1,3,1
+Quin es el nom del problema que voleu eliminar?
+Base de Dades Actualitzada 
+
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 2
+
+--Gestió d'usuaris--
+0) Crear usuari
+1) Modificar usuari
+2) Eliminar usuari
+3) Llistar usuaris
+Quin nom voleu per al jugador?
+Voleu guardar aquest jugador a la base de dades?
+0: Si 1: No
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 2
+
+--Gestió d'usuaris--
+0) Crear usuari
+1) Modificar usuari
+2) Eliminar usuari
+3) Llistar usuaris
+Usuaris disponibles: 
+Jan
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 2
+
+--Gestió d'usuaris--
+0) Crear usuari
+1) Modificar usuari
+2) Eliminar usuari
+3) Llistar usuaris
+Usuaris disponibles: 
+Jan
+Quin Jugador vols modificar?
+El jugador no es troba a la base de dades
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 2
+
+--Gestió d'usuaris--
+0) Crear usuari
+1) Modificar usuari
+2) Eliminar usuari
+3) Llistar usuaris
+Quin nom voleu per al jugador?
+Aquest nom ja es troba utilitzat
+Quin nom voleu per al jugador?
+Voleu guardar aquest jugador a la base de dades?
+0: Si 1: No
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 2
+
+--Gestió d'usuaris--
+0) Crear usuari
+1) Modificar usuari
+2) Eliminar usuari
+3) Llistar usuaris
+Usuaris disponibles: 
+Jan
+Jan2
+Quin Jugador vols modificar?
+Introdueix el nou alias pel jugador Jan
+Voleu modificar-lo a la base de dades?
+0: Si 1: No
+Base de Dades Actualitzada 
+
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 2
+
+--Gestió d'usuaris--
+0) Crear usuari
+1) Modificar usuari
+2) Eliminar usuari
+3) Llistar usuaris
+Usuaris disponibles: 
+Jan2
+Jan1
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 2
+
+--Gestió d'usuaris--
+0) Crear usuari
+1) Modificar usuari
+2) Eliminar usuari
+3) Llistar usuaris
+Usuaris disponibles: 
+Jan2
+Jan1
+Quin es el nom del Jugador a donar de baixa?
+Base de Dades Actualitzada 
+
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 2
+
+--Gestió d'usuaris--
+0) Crear usuari
+1) Modificar usuari
+2) Eliminar usuari
+3) Llistar usuaris
+Usuaris disponibles: 
+Jan2
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 0
+Finalització del programa!

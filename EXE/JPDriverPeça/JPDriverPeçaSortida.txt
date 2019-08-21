@@ -1,0 +1,189 @@
+Driver peça
+Elegeix quin métode vols comprovar: 
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+4) Set Color de la peça 
+5) Get Color de la Peça
+6) Get Posició de la peça
+7) Set Posició de la peça amb 2 int
+8) Set Posició de la peça amb una coordinada
+
+Creacio d'una peça tipus peo per amb valors de fila: 0, columna: 0 i de color BLANC
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+4) Set Color de la peça 
+5) Get Color de la Peça
+6) Get Posició de la peça
+7) Set Posició de la peça amb 2 int
+8) Set Posició de la peça amb una coordinada
+
+Creacio d'una peça
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+De quin color voleu que sigui la peça (blanc o negre)?
+Creacio d'un peça per defecte amb valors de fila 3, de columna 4 i color NEGRE
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+4) Set Color de la peça 
+5) Get Color de la Peça
+6) Get Posició de la peça
+7) Set Posició de la peça amb 2 int
+8) Set Posició de la peça amb una coordinada
+
+Calcul dels possibles moviments d'una peça
+En el següent tauler
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♟--♛♖
+--------
+--♘-♙♕--
+♗------♗
+Introduir la fila de la peça a moure (0,7)
+Introduir la columna de la peça a moure (0,7)
+Veiem els moviments possibles
+Moviment 1: Fila 6 - Columna 1
+Moviment 2: Fila 5 - Columna 2
+Moviment 3: Fila 4 - Columna 3
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+4) Set Color de la peça 
+5) Get Color de la Peça
+6) Get Posició de la peça
+7) Set Posició de la peça amb 2 int
+8) Set Posició de la peça amb una coordinada
+
+Set color de la peça 5,4
+En el següent tauler
+♜♞♝♛♚♝♞♜
+♟♟♟-♟♟♟♟
+--------
+-♗------
+-------♖
+----♟---
+---♙♔---
+----♕---
+De quin color voleu que sigui la peça (blanc o negre)?
+La peça es de color:
+BLANC
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+4) Set Color de la peça 
+5) Get Color de la Peça
+6) Get Posició de la peça
+7) Set Posició de la peça amb 2 int
+8) Set Posició de la peça amb una coordinada
+
+Color de la peça de la posició 5,4
+En el següent tauler
+♜♞♝♛♚♝♞♜
+♟♟♟-♟♟♟♟
+--------
+-♗------
+-------♖
+----♟---
+---♙♔---
+----♕---
+La peça es de color:
+NEGRE
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+4) Set Color de la peça 
+5) Get Color de la Peça
+6) Get Posició de la peça
+7) Set Posició de la peça amb 2 int
+8) Set Posició de la peça amb una coordinada
+
+Posició de la peça 5,4
+En el següent tauler
+♜♞♝♛♚♝♞♜
+♟♟♟-♟♟♟♟
+--------
+-♗------
+-------♖
+----♟---
+---♙♔---
+----♕---
+La peça es a la posició:
+5 4
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+4) Set Color de la peça 
+5) Get Color de la Peça
+6) Get Posició de la peça
+7) Set Posició de la peça amb 2 int
+8) Set Posició de la peça amb una coordinada
+
+Set posició de la peça 5,4
+En el següent tauler
+♜♞♝♛♚♝♞♜
+♟♟♟-♟♟♟♟
+--------
+-♗------
+-------♖
+----♟---
+---♙♔---
+----♕---
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+La peça es a la posició:
+3 6
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+4) Set Color de la peça 
+5) Get Color de la Peça
+6) Get Posició de la peça
+7) Set Posició de la peça amb 2 int
+8) Set Posició de la peça amb una coordinada
+
+Set posició de la peça amb coordinada 5,4 
+En el següent tauler
+♜♞♝♛♚♝♞♜
+♟♟♟-♟♟♟♟
+--------
+-♗------
+-------♖
+----♟---
+---♙♔---
+----♕---
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+La peça es a la posició:
+3 6
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+4) Set Color de la peça 
+5) Get Color de la Peça
+6) Get Posició de la peça
+7) Set Posició de la peça amb 2 int
+8) Set Posició de la peça amb una coordinada
+
+Finalització del Driver peça

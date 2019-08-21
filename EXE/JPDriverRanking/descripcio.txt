@@ -1,0 +1,19 @@
+·Objecte de la prova: Ranking.java
+·Drivers: DriverRanking.java 
+	-Testejem la classe Ranking
+		*Constructora per defecte.
+		*Constructora amb valors.
+		*Getters i setters de tots els atributs.
+		*Metodes:
+			-Afegir Posicio
+			-Esborrar Posicio
+			-Consultar Temps
+			-Guardar Ranking
+			-Carregar Ranking
+			-Ordenar Ranking
+			-Imprimir Ranking
+	-Testejem la base de Dades
+·Testejat amb White Box
+·Operativa:
+java -jar DriverRanking.jar <JPDriverGestioRankingEntrada.txt >out.txt
+diff -w out.txt JPDriverGestioRankingSortida.txt

@@ -1,0 +1,11 @@
+·Objecte de la prova: Coordinada.java
+·Drivers: DriverCoordinada.java 
+	-Testejem Coordinada
+		*Constructora per defecte.
+		*Constructora amb valors.
+		*Getters i setters de Fila i Columna.
+Valors: <0 i >=8
+·Testejat amb White Box
+·Operativa:
+java -jar DriverCoordinada.jar <JPDriverCoordinadaEntrada.txt >out.txt
+diff -w out.txt JPDriverCoordinadaSortida.txt

@@ -1,0 +1,13 @@
+·Objecte de la prova: Jugador.java
+·Drivers: DriverJugador.java 
+	-Testejem la classe Jugador
+		*Constructora per defecte.
+		*Constructora amb valors.
+		*Getters i setters de l'atribut.
+		*Metodes:
+			-Canviar Nom
+			-Obtenir nom
+·Testejat amb White Box
+·Operativa:
+java -jar DriverJugador.jar <JPDriverJugadorEntrada.txt >out.txt
+diff -w out.txt JPDriverJugadorSortida.txt

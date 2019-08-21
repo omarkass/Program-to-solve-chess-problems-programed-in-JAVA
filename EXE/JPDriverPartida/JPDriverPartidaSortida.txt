@@ -1,0 +1,12 @@
+Driver Partida
+Elegeix quin mètode vols comprovar: 
+
+0) Sortir 
+1) Modificar Tauler 
+2) Get Tauler 
+3) Comprovar FEN 
+4) Calcular algoritme atac 
+5) Calcular algoritme defensa
+6) Calcular algoritme 
+7) Seleccionar tauler 
+

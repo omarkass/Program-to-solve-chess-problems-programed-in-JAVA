@@ -1,0 +1,32 @@
+Driver Rellotge
+Eligueix quin métode vols comprovar: 
+
+0) Sortit 
+1) Constructora per defecte 
+2) Imprimir rellotge jugador 1
+Creacio de dos rellotges.
+
+0) Sortit 
+1) Constructora per defecte 
+2) Imprimir rellotge jugador 1
+segons: 1
+
+0) Sortit 
+1) Constructora per defecte 
+2) Imprimir rellotge jugador 1
+segons: 3
+
+0) Sortit 
+1) Constructora per defecte 
+2) Imprimir rellotge jugador 1
+segons: 7
+
+0) Sortit 
+1) Constructora per defecte 
+2) Imprimir rellotge jugador 1
+segons: 10
+
+0) Sortit 
+1) Constructora per defecte 
+2) Imprimir rellotge jugador 1
+Finalització del Driver Casella

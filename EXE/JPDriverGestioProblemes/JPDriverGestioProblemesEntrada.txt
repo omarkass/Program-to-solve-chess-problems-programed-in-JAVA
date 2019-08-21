@@ -1,0 +1,87 @@
+1
+P1
+2
+3
+P1
+5Nn1/p2p3r/Bn4rP/1PpkB1PR/2N1p1R1/2PP1pK1/8/3Q4 w - - 0 1
+3
+2
+0
+3
+P1
+P2
+2QR3r/1q2Pb2/1bpBpp2/p6n/KNpkpN2/1P3P2/3PP3/n3r3 w - - 0 1
+2
+2
+0
+1
+P3
+1
+P1
+2
+4
+P1
+2
+4
+P1
+5
+P2
+1
+Problema2
+0
+1
+P2
+2
+3
+P2
+1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B w - - 0 1
+2
+3
+0
+2
+1
+P2
+4
+P5
+4
+P6
+5
+P5
+5
+Problema1
+3
+Problema2
+Problema44
+8/1P2pr1P/1P1pNp2/4kBp1/3pP1Q1/1rp3n1/b3p1N1/5nK1 w - - 0 1
+2
+2
+0
+5
+P2
+2
+71/1P2pr1P/1P1pNp2/4kBp1/3pP1Q1/1rp3n1/b3p1N1/5nK1 w - - 0 1
+2N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B w - - 0 1
+1N1b4//6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B w - - 0 1
+1N1b4/RRR3nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B w - - 0 1
+1N1b4/4bbnr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B w - - 0 1
+1N1b4/4bnr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B w - - 0 1
+1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B c - - 0 1
+1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b x - 0 1
+1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - x 0 1
+1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 2 1
+1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 2
+1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B b - - 0 1
+0
+5
+P2
+3
+4
+0
+2
+5
+Problema44
+4
+3
+0
+2
+0

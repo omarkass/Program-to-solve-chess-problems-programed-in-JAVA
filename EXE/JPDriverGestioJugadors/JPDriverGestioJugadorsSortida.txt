@@ -1,0 +1,208 @@
+Driver GestioJugadors
+Escull quin metode vols comprovar: 
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin nom voleu per al jugador?
+Voleu guardar aquest jugador a la base de dades?
+0: Si 1: No
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin nom voleu per al jugador?
+Voleu guardar aquest jugador a la base de dades?
+0: Si 1: No
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin nom voleu per al jugador?
+Voleu guardar aquest jugador a la base de dades?
+0: Si 1: No
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Usuaris disponibles: 
+Janpr99
+Albert_137
+Alexis
+Joan99
+Alias_99.USD$-123
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin es el nom del Jugador a donar de baixa?
+Base de Dades Actualitzada 
+
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Usuaris disponibles: 
+Janpr99
+Albert_137
+Alexis
+Alias_99.USD$-123
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin nom voleu per al jugador?
+Aquest nom ja es troba utilitzat
+Quin nom voleu per al jugador?
+Voleu guardar aquest jugador a la base de dades?
+0: Si 1: No
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin nom voleu per al jugador?
+Voleu guardar aquest jugador a la base de dades?
+0: Si 1: No
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Usuaris disponibles: 
+Janpr99
+Albert_137
+Alexis
+Alias_99.USD$-123
+Janpr100
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin es el nom del Jugador a donar de baixa?
+Aquest Jugador no existeix
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin es el nom del Jugador a donar de baixa?
+Aquest Jugador no existeix
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin es el nom del Jugador a donar de baixa?
+Base de Dades Actualitzada 
+
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Usuaris disponibles: 
+Janpr99
+Albert_137
+Alias_99.USD$-123
+Janpr100
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin Jugador vols modificar?
+Introdueix el nou alias pel jugador Alias_99.USD$-123
+Voleu modificar-lo a la base de dades?
+0: Si 1: No
+Base de Dades Actualitzada 
+
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Usuaris disponibles: 
+Janpr99
+Albert_137
+Janpr100
+Alias_99.USD$123
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin es el nom del Jugador a donar de baixa?
+Aquest Jugador no existeix
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin Jugador vols modificar?
+El jugador no es troba a la base de dades
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin Jugador vols modificar?
+El jugador no es troba a la base de dades
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Quin nom voleu per al jugador?
+Aquest nom ja es troba utilitzat
+Quin nom voleu per al jugador?
+Aquest nom ja es troba utilitzat
+Quin nom voleu per al jugador?
+Voleu guardar aquest jugador a la base de dades?
+0: Si 1: No
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Usuaris disponibles: 
+Janpr99
+Albert_137
+Janpr100
+Alias_99.USD$123
+R3B7
+
+0) Sortir 
+1) Crear Jugador 
+2) Eliminar Jugador 
+3) Modificar Jugador 
+4) LListar Jugadors
+Finalització del Driver GestioProblemes

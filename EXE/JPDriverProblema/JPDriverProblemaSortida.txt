@@ -1,0 +1,170 @@
+Driver Problema
+Escull quin metode vols comprovar: 
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors Nom, N, FEN inicial i dificultat 
+3) Consultora Nom 
+4) Consultora N 
+5) Consultora FEN inicial 
+6) Consultora Dificultat
+7) Set dificultat
+8) Set nom
+9) Set FEN inicial
+10) Set N
+
+Creacio d'un problema per defecte amb nom = ZZZ, dificultat = 0, FEN inicial = ZZZ i N = 0
+
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors Nom, N, FEN inicial i dificultat 
+3) Consultora Nom 
+4) Consultora N 
+5) Consultora FEN inicial 
+6) Consultora Dificultat
+7) Set dificultat
+8) Set nom
+9) Set FEN inicial
+10) Set N
+
+Amb quantes jugades s'ha de resoldre (N)?
+Quin nom voleu?
+Quina dificultat se l'hi assigna al problema?
+Quin es l'estat inicial de la partida (FEN)?
+Creacio d'un problema amb valors nom= Problema1; N=2; FENini=2bq4/Q7/4rN2/5n2/2BPr2R/4k3/2n3PB/1N1R2K1; Dificultat=1
+
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors Nom, N, FEN inicial i dificultat 
+3) Consultora Nom 
+4) Consultora N 
+5) Consultora FEN inicial 
+6) Consultora Dificultat
+7) Set dificultat
+8) Set nom
+9) Set FEN inicial
+10) Set N
+
+El nom és: Problema1
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors Nom, N, FEN inicial i dificultat 
+3) Consultora Nom 
+4) Consultora N 
+5) Consultora FEN inicial 
+6) Consultora Dificultat
+7) Set dificultat
+8) Set nom
+9) Set FEN inicial
+10) Set N
+
+El temps és: 2
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors Nom, N, FEN inicial i dificultat 
+3) Consultora Nom 
+4) Consultora N 
+5) Consultora FEN inicial 
+6) Consultora Dificultat
+7) Set dificultat
+8) Set nom
+9) Set FEN inicial
+10) Set N
+
+El temps és: 2bq4/Q7/4rN2/5n2/2BPr2R/4k3/2n3PB/1N1R2K1
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors Nom, N, FEN inicial i dificultat 
+3) Consultora Nom 
+4) Consultora N 
+5) Consultora FEN inicial 
+6) Consultora Dificultat
+7) Set dificultat
+8) Set nom
+9) Set FEN inicial
+10) Set N
+
+El temps és: 1
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors Nom, N, FEN inicial i dificultat 
+3) Consultora Nom 
+4) Consultora N 
+5) Consultora FEN inicial 
+6) Consultora Dificultat
+7) Set dificultat
+8) Set nom
+9) Set FEN inicial
+10) Set N
+
+Quin nom voleu?
+Nom: P1
+
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors Nom, N, FEN inicial i dificultat 
+3) Consultora Nom 
+4) Consultora N 
+5) Consultora FEN inicial 
+6) Consultora Dificultat
+7) Set dificultat
+8) Set nom
+9) Set FEN inicial
+10) Set N
+
+Amb quantes jugades s'ha de resoldre (N)?
+N: 1
+
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors Nom, N, FEN inicial i dificultat 
+3) Consultora Nom 
+4) Consultora N 
+5) Consultora FEN inicial 
+6) Consultora Dificultat
+7) Set dificultat
+8) Set nom
+9) Set FEN inicial
+10) Set N
+
+Quin es l'estat inicial de la partida (FEN)?
+FEN inicial: 8/1p1RPq2/5n1Q/3P4/RBNkpnN1/K2p4/B2Ppr2/8
+
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors Nom, N, FEN inicial i dificultat 
+3) Consultora Nom 
+4) Consultora N 
+5) Consultora FEN inicial 
+6) Consultora Dificultat
+7) Set dificultat
+8) Set nom
+9) Set FEN inicial
+10) Set N
+
+Quina dificultat se l'hi assigna al problema?
+Dificultat: 6
+
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors Nom, N, FEN inicial i dificultat 
+3) Consultora Nom 
+4) Consultora N 
+5) Consultora FEN inicial 
+6) Consultora Dificultat
+7) Set dificultat
+8) Set nom
+9) Set FEN inicial
+10) Set N
+
+Finalització del Driver Problema

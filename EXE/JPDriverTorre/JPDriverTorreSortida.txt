@@ -1,0 +1,76 @@
+Driver torre
+Elegeix quin métode vols comprovar: 
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Creacio d'una peça torre per defecte amb valors de fila: 0, columna: 0 i de color BLANC
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Creacio d'una peça torre
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+De quin color voleu que sigui la peça (blanc o negre)?
+Creacio d'un torre per defecte amb valors de fila 0, de columna 0 i color BLANC
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Creacio d'una peça torre
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+De quin color voleu que sigui la peça (blanc o negre)?
+Creacio d'un torre per defecte amb valors de fila 5, de columna 5 i color BLANC
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Creacio d'una peça torre
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+De quin color voleu que sigui la peça (blanc o negre)?
+Creacio d'un torre per defecte amb valors de fila 5, de columna 5 i color NEGRE
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Creacio d'una peça torre
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+De quin color voleu que sigui la peça (blanc o negre)?
+De quin color voleu que sigui la peça (blanc o negre)?
+De quin color voleu que sigui la peça (blanc o negre)?
+Creacio d'un torre per defecte amb valors de fila 6, de columna 6 i color NEGRE
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Creacio d'una peça torre
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+De quin color voleu que sigui la peça (blanc o negre)?
+De quin color voleu que sigui la peça (blanc o negre)?
+Creacio d'un torre per defecte amb valors de fila 2, de columna 2 i color BLANC
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Finalització del Driver torre

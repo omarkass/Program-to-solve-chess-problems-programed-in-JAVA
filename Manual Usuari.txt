@@ -1,0 +1,133 @@
+﻿Manual d'Usuari: Chess Solver
+
+1. Registrar-se, Iniciar Sessio amb un Usuari existent o entrar amb Usuari Anonim
+
+Només iniciar l'aplicació apareix el menu principal.
+
+Aquest menu consta de 4 Opcions:
+
+	a. Iniciar Sessio: En cas de que l'usuari ja hagi estat registrat pot Iniciar Sessio al seu compte.
+		-Una vegada a oberta la Finestra que permet l'inici de la Sessió, l'Usuari només haurà d'indicar el seu nom en el quadre de text i premer
+		el boto "Iniciar Sessio". Si l'usuari existeix podrà accedir al seu compte. Acte seguit s'obrira el menu que permet Gestionar la base de dades i Jugar (2).
+			
+	b. Registrar-se com a Usuari: Si es vol crear un compte personal per guardar les propies estadistiques.
+		-Una vegada oberta la Finestra que permet l'enregistrament d'un nou usuari, Aquest només haurà d'indicar el seu nom en el quadre de text i premer
+		el boto "Registrar Usuari". Si l'usuari elegit està lliure, es creara el nou compte.
+		Un cop creat el nou compte serà necessari premer el boto "enrere" per tornar al menu principal on poder Iniciar la Sessio (a).
+		
+	c. Continuar sense registrar-se: Per accedir a l'aplicacio de forma temporal i sense guardar estadistiques.
+		-Al premer aquesta Opcio, s'obrira el menu que permet Gestionar la base de dades i Jugar (2).
+		
+	d. Sortir: En aquest cas s'acabarà l'execució del programa.
+	
+	En els casos a, b i c l'usuari sempre podrà retornar al menu anterior prement el boto "enrere" en cas d'equivocació.
+	
+	
+2. Menu Gestionar i Jugar.
+
+Aquest menu consta de 6 opcions:
+
+	a. Gestionar Problemes: Desplega un menu que permet Crear, Modificar, Eliminar un problema i Tornar Enrere.
+		
+		Aquest menu consta per tant de 4 Opcions:	
+			
+			a1. Crear Problema: S'hauran d'entrar les Dades del nou problema en els quadres de text corresponents. No poden existir dos problemes amb el mateix nom.
+			Un cop s'hagi entrat tota la informació cal premer el boto Afegir que introduira el nou problema a la base de dades. En el cas de que alguna de les dades tingui
+			un format erroni el programa avisara al usuari de l'error amb un "Dialog".
+		
+			a2. Modificar Problema: Desplega un menu que permet Modificar el Nom, Fen, nMat i Dificultat d'un Problema i Tornar enrere.
+					
+				Aquest menu consta per tant de 5 Opcions:
+					
+					a21. Modificar Nom: S'haura d'entrar primer el nom del problema original i segonament el nou nom que se l'hi vol donar. Es pot consultar els problemes
+					existents a la base de dades mitjançant el boto "Consultar BD" que llença un "Dialog" informatiu.
+
+					a22. Modificar FEN: S'haura d'entrar primer el nom del problema original i segonament el nou FEN que se l'hi vol donar al problema. Es pot consultar els problemes
+					existents a la base de dades mitjançant el boto "Consultar BD" que llença un "Dialog" informatiu.
+					
+					a23. Modificar Mat: S'haura d'entrar primer el nom del problema original i segonament el nou Mat que se l'hi vol donar al problema. Es pot consultar els problemes
+					existents a la base de dades mitjançant el boto "Consultar BD" que llença un "Dialog" informatiu.
+					
+					a24. Modificar Dificultat: S'haura d'entrar primer el nom del problema original i segonament la nova Dificultat que se l'hi vol donar al problema. Es pot consultar els problemes
+					existents a la base de dades mitjançant el boto "Consultar BD" que llença un "Dialog" informatiu.
+					
+					a25. Permet a l'usuari tornar al menu Anterior.
+					
+				En els casos a21, a22, a23 i a24 l'Usuari haurà de premer el boto "Modificar" per fer efectius els canvis. 
+				L'usuari disposara sempre també del boto "Enrere" que el portarà al menu anterior.
+				
+			a3. Eliminar Problema: S'haura d'entrar el nom del problema que es vol eliminar al quadre de text corresponent. S'haura de premer el boto "Eliminar" per fer efectius els canvis.
+			L'usuari podrà consultar els problemes existents a la base de dades mitjançant el boto "Consultar BD".
+			L'usuari podrà tornar al menu anterior prement el boto "Enrere".
+			
+			a4. Enrere: Permet a l'usuari tornar al menu Anterior
+	
+	b. Gestionar Usuaris: Desplega un menu que permet Crear Usuaris, Modificar Usuaris, Eliminar Usuaris i Tornar Enrere.
+		
+		Aquest menu consta per tant de 4 Opcions:
+			
+			b1. Crear Usuari: S'haura d'entrar el nom de l'Usuari que es vol crear en el quadre de text corresponent. Una vegada entrat s'haurà de premer el boto "Crear" per tal
+			d'incorporar el nou usuari a la base de dades.
+			
+			b2. Modificar Usuari: S'haura d'entrar el nom de l'Usuari que es vol Modificar en el quadre de text corresponent. Acte seguit s'haura d'introduir el nou nom de l'usuari també en el quadre corresponent.
+			Per fer efectiu el canvi s'haurà de premer el boto Modificar. l'Usuari també te la opcio de consultar la base de dades fent click al boto "Consultar BD".
+			
+			b3. Eliminar Usuari: S'haura d'entrar el nom de l'Usuari que es vol eliminar en el quadre de text corresponent. Acte seguit s'haura de premer el boto "Eliminar" per fer efectius els canvis.
+			l'Usuari pot consultar la base de dades prement el boto "Consultar BD".
+			
+			b4. Enrere: Permet a l'usuari tornar al menu Anterior.
+		
+		En els casos b1, b2 i b3 l'Usuari disposara sempre del boto "Enrere" que el portarà al menu anterior.
+	
+	c. Jugar: Desplega un menu que permet Triar M1 vs M1, M2 vs M1, H vs M1, H vs M2, H vs H i tornar enrere.
+	
+		Aquest menu consta per tant de 4 Opcions:
+			
+			c1. M1 vs M1: Permet elegir un Problema per calcular-lo amb la Maquina amb l'algoritme M1. Es llença el Tauler (3)
+			c2.	M2 vs M1: Permet elegir un Problema per calcular-lo amb la Maquina amb l'algoritme M2. Es llença el Tauler (3)
+			c3. H vs M1: Humà ataca i la màquina defensa amb l'algoritme senzill. Es llença el Tauler (3)
+			c4. H vs M2: Humà ataca i la màquina defensa amb l'algoritme avançat. Es llença el Tauler (3)
+			c5. H vs H: Huma contra Huma. Es llença el Tauler (3).
+			c6. Enrere: Permet a l'usuari tornar al menu Anterior.
+		
+		En els casos c1, c2, c3 i c4 la partida comença quan l'usuari prem el boto Jugar.
+		En els casos c1, c2, c3 i c4 l'usuari podrà consultar l'estat de la base de dades prement el boto "Consultar BD".
+		En els casos c1, c2, c3 i c4 l'usuari disposa del boto "enrere" que li permet tornar al menu anterior.
+		
+	d. Gestionar Ranking: Desplega un menu que permet Consultar Ranking, Esborrar Posicio i Tornar Enrere.
+		
+		Aquest menu consta de 3 Opcions
+			d1. Consultar Ranking: S'haura d'entrar el nom del Ranking a consultar. Aquest Ranking apareixera al premer el boto "Consultar".
+			
+			d2. Esborrar Posicio: S'haura d'entrar el nom del Ranking i la posicio que es vol esborrar en els quadres de text corresponents.
+			Per fer efectius els canvis l'Usuari haurà de premer el boto "Esborrar".
+			
+			d3. Enrere: Permet a l'Usuari tornar al menu anterior.
+		
+		En els casos d1 i d2 l'Usuari sempre disposara del boto "Enrere" que el portarà al menu anterior.
+	
+	e. Comparar Algoritmes: Permet Comparar els dos algoritmes.
+		L'usuari haurà d'entrar en el quadre de text corresponent el nombre de problemes que vol comparar.
+		L'usuari disposa del boto "Consultar BD" on al fer-hi click podrà visualitzar els problemes carregats a la base de dades.
+		Una vegada decidit el nombre de problemes que vol comparar haurà de premer el boto "Entrar Problemes" que desplegara varis "Dialog" de forma
+		sequencial on haurà d'entrar el nom de cada un dels problemes que vol comparar de forma individual.
+		Una vegada entrats tots els problemes l'algoritme fara el calcul i el treura per pantalla amb un Dialog (pot tardar).
+	
+	f. Enrere: Permet a l'usuari tornar al Menu Inicial (1)
+	
+3. Tauler
+	Hi ha 5 casos:
+		Cas1 (M1 vs M1): Per cada click que fem al tauler, es produeix un moviment.
+		Cas2 (M2 vs M1): Per cada click que fem al tauler, es produeix un moviment.
+		Cas3 (H vs M1): Per cada moviment de l'Usuari, l'algoritme M1 mou peça.
+		Cas4 (H vs M2): Per cada moviment de l'Usuari, l'algoritme M2 mou peça.
+		Cas5 (H vs H): Cada Usuari ha de fer el seu propi moviment en ordre.
+		
+		*Cas1, Cas2: Per fer que la màquina fagi la seva pròxima jugada simplement s'ha de fer click a qualsevol lloc del tauler.
+		*Cas3, Cas4, Cas5 (torn Huma): Per moure les peçes és necessari premer la casella on son i la casella on es preten moureles.
+		*Cas3, Cas4, Cas5:(torn Màquina): Per fer que la màquina fagi la seva pròxima jugada simplement s'ha de fer click a qualsevol lloc del tauler.
+		Al fer click perquè la màquina calculi la jugada el Titol de la finestra canviarà indicant que s'està esperant
+		a la màquina que calculi la seva jugada.		
+		Una vegada acabada la partida apareix un "Dialog" informatiu explicant si el problema s'ha pogut resoldre o no.
+		Al premer el boto "Ok" l'usuari tornarà al menu Gestionar i Jugar (2).
+		

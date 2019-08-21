@@ -1,0 +1,54 @@
+Driver Jugador
+Elegeix quin mètode vols comprovar: 
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Get nom 
+4) Set Nom
+
+Jugador creat amb valors per defecte (nom = Anonim)
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Get nom 
+4) Set Nom
+
+Quin nom vols per al jugador?
+Jugador creat amb valors d'entrada
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Get nom 
+4) Set Nom
+
+El nom del jugador es:
+Miquel
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Get nom 
+4) Set Nom
+
+Elegeix el nou nom del Jugador
+Nom del jugador canviat
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Get nom 
+4) Set Nom
+
+El nom del jugador es:
+Joan
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Get nom 
+4) Set Nom
+
+Finalització del Driver Jugador

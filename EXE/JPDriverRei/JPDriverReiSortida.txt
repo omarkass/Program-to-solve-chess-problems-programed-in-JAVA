@@ -1,0 +1,71 @@
+Driver rei
+Elegeix quin mètode vols comprovar: 
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Creacio d'una peça rei per defecte amb valors de fila: 0, columna: 0 i de color BLANC
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Creacio d'una peça rei
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+De quin color voleu que sigui la peça (blanc o negre)?
+Creacio d'un rei per defecte amb valors de fila 5, de columna 7 i color BLANC
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Creacio d'una peça rei
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+De quin color voleu que sigui la peça (blanc o negre)?
+De quin color voleu que sigui la peça (blanc o negre)?
+Creacio d'un rei per defecte amb valors de fila 0, de columna 0 i color BLANC
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Creacio d'una peça rei
+En quina fila voleu que estigui la peça (0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+En quina columna voleu que estigui la peça(0 a 7)?
+De quin color voleu que sigui la peça (blanc o negre)?
+De quin color voleu que sigui la peça (blanc o negre)?
+Creacio d'un rei per defecte amb valors de fila 7, de columna 5 i color NEGRE
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Calcul dels possibles moviments d'una peça rei
+En el següent tauler
+♜♞♝♛♚♝♞♜
+♟♟♟-♟♟♟♟
+---♟----
+-♗-♙♔---
+♙--♙♙---
+--------
+-♙-♙--♙♙
+♖--♕---♖
+Veiem els moviments per al rei blanc
+Moviment 1 Fila: 5 - Columna: 4
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb Valors 
+3) Possibles Moviments 
+
+Finalització del Driver rei

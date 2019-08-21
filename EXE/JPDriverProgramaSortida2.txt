@@ -1,0 +1,337 @@
+Entorn de resolució de Problemes d'Escacs
+
+--Inici d'usuari--
+0) Continuar sense registrar-se
+1) Registrar-se com a usuari
+2) Iniciar sessió
+Quin nom voleu per al jugador?
+Voleu guardar aquest jugador a la base de dades?
+0: Si 1: No
+Jugador creat
+Usuaris disponibles: 
+newjugador
+Amb quin nom d'usuari voleu iniciar sessió?
+Sessió iniciada amb el jugador amb nom: newjugador
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 1
+
+--Gestió de problemes--
+0) Crear problema
+1) Modificar problema
+2) Eliminar problema
+3) Llistar problemes
+Quin es el nom del problema?
+Quin es el FEN del problema?
+FEN correcte
+Quin es el nombre de torns per arribar al mat?
+Quina es la dificultat del problema?
+Voleu guardar aquest problema en la base de dades?
+0: Si 1: No
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 3
+
+--Jugar--
+Problemes disponibles: 
+enunciat,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B w - - 0 1,2,1
+
+Escriu el nom del problema al que voleu jugar
+Amb quin tipus de jugadors voleu jugar?
+0) H1 i H2
+1) H i M1
+2) M1 i M1
+3) M1 i H
+Tauler inicial: 
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♟--♛♖
+--------
+--♘-♙♕--
+♗------♗
+Iniciar sessió per al jugador H2
+--Inici d'usuari--
+0) Continuar sense registrar-se
+1) Registrar-se com a usuari
+2) Iniciar sessió
+Jugador temporal creat amb nom: Anonim
+Comença la partida amb el problema: enunciat entre el Jugador: newjugador i el Jugador: Anonim
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♟--♛♖
+--------
+--♘-♙♕--
+♗------♗
+Moviment del Jugador: newjugador
+Introduir la fila de la peça a moure (0,7)
+Introduir la columna de la peça a moure (0,7)
+Moviment 0: (4 ,1)
+Moviment 1: (5 ,0)
+Moviment 2: (7 ,4)
+Moviment 3: (5 ,4)
+Moviment 4: (4 ,3)
+Quin moviment voleu (contant desde 0)
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♘--♛♖
+--------
+----♙♕--
+♗------♗
+Moviment del Jugador: Anonim
+Introduir la fila de la peça a moure (0,7)
+Introduir la columna de la peça a moure (0,7)
+Moviment 0: (0 ,4)
+Moviment 1: (2 ,4)
+Moviment 2: (3 ,5)
+Quin moviment voleu (contant desde 0)
+-♘-♝----
+-------♜
+♖-----♞-
+--♙♟♚♞-♜
+♔--♘--♛♖
+--------
+----♙♕--
+♗------♗
+Moviment del Jugador: newjugador
+Introduir la fila de la peça a moure (0,7)
+Introduir la columna de la peça a moure (0,7)
+Moviment 0: (1 ,0)
+Moviment 1: (0 ,0)
+Moviment 2: (2 ,1)
+Moviment 3: (2 ,2)
+Moviment 4: (2 ,3)
+Moviment 5: (2 ,4)
+Moviment 6: (2 ,5)
+Moviment 7: (2 ,6)
+Moviment 8: (3 ,0)
+Quin moviment voleu (contant desde 0)
+-♘-♝----
+-------♜
+----♖-♞-
+--♙♟♚♞-♜
+♔--♘--♛♖
+--------
+----♙♕--
+♗------♗
+Escac i mat
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 3
+
+--Jugar--
+Problemes disponibles: 
+enunciat,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B w - - 0 1,2,1
+
+Escriu el nom del problema al que voleu jugar
+Amb quin tipus de jugadors voleu jugar?
+0) H1 i H2
+1) H i M1
+2) M1 i M1
+3) M1 i H
+Tauler inicial: 
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♟--♛♖
+--------
+--♘-♙♕--
+♗------♗
+Comença la partida amb el problema: enunciat entre el Jugador: newjugador i el Jugador: M1
+
+Torn del jugador humà: 
+Introduir la fila de la peça a moure (0,7)
+Introduir la columna de la peça a moure (0,7)
+Moviment 0: (4 ,1)
+Moviment 1: (5 ,0)
+Moviment 2: (7 ,4)
+Moviment 3: (5 ,4)
+Moviment 4: (4 ,3)
+Quin moviment voleu? (contant desde 0)
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♘--♛♖
+--------
+----♙♕--
+♗------♗
+Torn del jugador maquina: 
+
+-♘------
+----♝-♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♘--♛♖
+--------
+----♙♕--
+♗------♗
+Torn del jugador humà: 
+Introduir la fila de la peça a moure (0,7)
+Introduir la columna de la peça a moure (0,7)
+Moviment 0: (2 ,2)
+Moviment 1: (1 ,3)
+Quin moviment voleu? (contant desde 0)
+--------
+----♝-♞♜
+♖-♘---♞-
+--♙♟♚--♜
+♔--♘--♛♖
+--------
+----♙♕--
+♗------♗
+Escac i mat!
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 3
+
+--Jugar--
+Problemes disponibles: 
+enunciat,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B w - - 0 1,2,1
+
+Escriu el nom del problema al que voleu jugar
+Amb quin tipus de jugadors voleu jugar?
+0) H1 i H2
+1) H i M1
+2) M1 i M1
+3) M1 i H
+Tauler inicial: 
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♟--♛♖
+--------
+--♘-♙♕--
+♗------♗
+Comença la partida amb el problema: enunciat entre el Jugador: M1 i el Jugador: M1
+
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♘--♛♖
+--------
+----♙♕--
+♗------♗
+Les blanques mouen n a d4
+
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♛---♖
+--------
+----♙♕--
+♗------♗
+Les negres mouen q a d4
+
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♗---♖
+--------
+----♙♕--
+-------♗
+Les blanques mouen b a d4
+
+Escac i mat!
+Temps total en segons: 3
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 3
+
+--Jugar--
+Problemes disponibles: 
+enunciat,1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B w - - 0 1,2,1
+
+Escriu el nom del problema al que voleu jugar
+Amb quin tipus de jugadors voleu jugar?
+0) H1 i H2
+1) H i M1
+2) M1 i M1
+3) M1 i H
+Tauler inicial: 
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♟--♛♖
+--------
+--♘-♙♕--
+♗------♗
+Comença la partida amb el problema: enunciat entre el Jugador: M1 i el Jugador: newjugador
+
+Torn del jugador maquina: 
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♘--♛♖
+--------
+----♙♕--
+♗------♗
+
+Torn del jugador huma: 
+Introduir la fila de la peça a moure (0,7)
+Introduir la columna de la peça a moure (0,7)
+Moviment 0: (0 ,4)
+Moviment 1: (2 ,4)
+Moviment 2: (3 ,5)
+Quin moviment voleu (contant desde 0)
+
+-♘-♝----
+-------♜
+♖-----♞-
+--♙♟♚♞-♜
+♔--♘--♛♖
+--------
+----♙♕--
+♗------♗
+
+Torn del jugador maquina: 
+-♘-♝----
+-------♜
+----♖-♞-
+--♙♟♚♞-♜
+♔--♘--♛♖
+--------
+----♙♕--
+♗------♗
+
+Escac i mat!
+
+0) Sortir
+1) Gestionar Problemes
+2) Gestionar Usuaris
+3) Jugar
+4) Gestionar Ranking
+Has elegit accedir a l'opció: 0
+Finalització del programa!

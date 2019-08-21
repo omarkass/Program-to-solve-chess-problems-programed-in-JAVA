@@ -1,0 +1,326 @@
+Driver Ranking
+Elegeix quin mètode vols comprovar: 
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Creació d'un ranking per defecte amb nom: ProblemaPerDefecte
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Quin nom voleu per al problema?
+Creació d'un ranking amb nom: Problema1
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Quin nom voleu per al problema?
+El nou nom del problema és: P1
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+El nom del problema és: P1
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Quin nom d'usuari voleu?
+Quin temps voleu?
+Posició afegida al ranking del problema: P1
+Usuari: Gerard Temps: 250.0
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Quin nom d'usuari voleu?
+Quin temps voleu?
+Posició afegida al ranking del problema: P1
+Usuari: Gerard Temps: 215.0
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Quin nom d'usuari voleu?
+Quin temps voleu?
+Posició afegida al ranking del problema: P1
+Usuari: Pilar Temps: 320.0
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Quin nom d'usuari voleu?
+Quin temps voleu?
+Posició afegida al ranking del problema: P1
+Usuari: Laia Temps: 150.0
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Ranking del problema: P1
+Posició 1: Laia 150.0
+Posició 2: Gerard 215.0
+Posició 3: Pilar 320.0
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Ranking ordenat
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Ranking del problema: P1
+Posició 1: Laia 150.0
+Posició 2: Gerard 215.0
+Posició 3: Pilar 320.0
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Quin nom voleu esborrar?
+L'usuari no existeix en aquest ranking
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Per a quin usuari voleu consultar el temps?
+L'usuari no existeix en aquest ranking
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Per a quin usuari voleu consultar el temps?
+Temps per a l'usuari: Gerard temps: 215.0 en el problema: P1
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Ranking del problema: P1
+Posició 1: Laia 150.0
+Posició 2: Gerard 215.0
+Posició 3: Pilar 320.0
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Per a quin usuari voleu consultar el temps?
+Temps per a l'usuari: Laia temps: 150.0 en el problema: P1
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Ranking guardat a la base de dades
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Ranking carregat de la base de dades
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Quin nom voleu esborrar?
+L'usuari: Pilar ha estat esborrat
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Ranking del problema: P1
+Posició 1: Laia 150.0
+Posició 2: Gerard 215.0
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Set Nom 
+4) Get Nom 
+5) Afegir posicio 
+6) Esborrar posicio 
+7) Consultar temps 
+8) Guardar Ranking 
+9) Carregar Ranking
+10) Ordenar Ranking 
+11) Imprimir Ranking
+Finalització del Driver Ranking

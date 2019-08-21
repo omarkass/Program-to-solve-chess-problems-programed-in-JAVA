@@ -1,0 +1,75 @@
+Driver Coordinada
+Elegeix quin mètode vols comprovar: 
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Get Fila 
+4) Get Columna 
+5) Set Fila 
+6) Set Columna
+Creació d'una coordinada per defecte amb fila: 0 i columna: 0
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Get Fila 
+4) Get Columna 
+5) Set Fila 
+6) Set Columna
+Quin valor de fila voleu?
+Quin valor de fila voleu?
+Quin valor de fila voleu?
+Quin valor de columna voleu?
+Creació d'una coordinada amb fila: 5 i columna: 5
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Get Fila 
+4) Get Columna 
+5) Set Fila 
+6) Set Columna
+El valor de la fila és: 5
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Get Fila 
+4) Get Columna 
+5) Set Fila 
+6) Set Columna
+El valor de la columna és: 5
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Get Fila 
+4) Get Columna 
+5) Set Fila 
+6) Set Columna
+Quin valor de fila voleu?
+Quin valor de fila voleu?
+Quin valor de fila voleu?
+El valor de la fila és: 1
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Get Fila 
+4) Get Columna 
+5) Set Fila 
+6) Set Columna
+Quin valor de columna voleu?
+Quin valor de columna voleu?
+Quin valor de columna voleu?
+El valor de la columna és: 4
+
+0) Sortir 
+1) Constructora per defecte 
+2) Constructora amb valors 
+3) Get Fila 
+4) Get Columna 
+5) Set Fila 
+6) Set Columna
+Finalització del Driver Coordinada

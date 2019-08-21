@@ -1,0 +1,189 @@
+Driver Moviment
+Elegeix quin mètode vols comprovar: 
+
+0) Sortir 
+1) Constructora amb valors 
+2) Get Destinació 
+3) Get Tauler 
+4) Get Peça Moguda 
+5) Set Destinació
+6) Set Peça Moguda 
+7) Set Tauler 
+8) Trobar el Rei 
+9) Moviment causa escac
+Creacio d'un moviment amb el següent tauler:
+♜♞♝♚♛♝♞♜
+♟♟♟♟♟♟♟♟
+--------
+--------
+--------
+--------
+♙♙♙♙♙♙♙♙
+♖♘♗♔♕♗♘♖
+La peça de la posició 6,0 i la destinació 5,0
+Moviment creat amb destinació: 5,0
+
+0) Sortir 
+1) Constructora amb valors 
+2) Get Destinació 
+3) Get Tauler 
+4) Get Peça Moguda 
+5) Set Destinació
+6) Set Peça Moguda 
+7) Set Tauler 
+8) Trobar el Rei 
+9) Moviment causa escac
+Moviment amb destinació: 5,0
+
+0) Sortir 
+1) Constructora amb valors 
+2) Get Destinació 
+3) Get Tauler 
+4) Get Peça Moguda 
+5) Set Destinació
+6) Set Peça Moguda 
+7) Set Tauler 
+8) Trobar el Rei 
+9) Moviment causa escac
+Moviment amb tauler:
+♜♞♝♚♛♝♞♜
+♟♟♟♟♟♟♟♟
+--------
+--------
+--------
+--------
+♙♙♙♙♙♙♙♙
+♖♘♗♔♕♗♘♖
+
+0) Sortir 
+1) Constructora amb valors 
+2) Get Destinació 
+3) Get Tauler 
+4) Get Peça Moguda 
+5) Set Destinació
+6) Set Peça Moguda 
+7) Set Tauler 
+8) Trobar el Rei 
+9) Moviment causa escac
+Moviment amb peça moguda: p 6,0
+
+0) Sortir 
+1) Constructora amb valors 
+2) Get Destinació 
+3) Get Tauler 
+4) Get Peça Moguda 
+5) Set Destinació
+6) Set Peça Moguda 
+7) Set Tauler 
+8) Trobar el Rei 
+9) Moviment causa escac
+Quin valor de fila voleu per la destinació (0,7)?
+Quin valor de columna voleu per la destinació (0,7)?
+Moviment modificat amb destinació: 4,0
+
+0) Sortir 
+1) Constructora amb valors 
+2) Get Destinació 
+3) Get Tauler 
+4) Get Peça Moguda 
+5) Set Destinació
+6) Set Peça Moguda 
+7) Set Tauler 
+8) Trobar el Rei 
+9) Moviment causa escac
+En quin valor de fila es troba la peça a moure (0,7)?
+En quin valor de columna es troba la peça a moure (0,7)?
+Moviment modificat amb peça moguda: p 1,4
+
+0) Sortir 
+1) Constructora amb valors 
+2) Get Destinació 
+3) Get Tauler 
+4) Get Peça Moguda 
+5) Set Destinació
+6) Set Peça Moguda 
+7) Set Tauler 
+8) Trobar el Rei 
+9) Moviment causa escac
+Tauler inicial:
+♜♞♝♚♛♝♞♜
+♟♟♟♟♟♟♟♟
+--------
+--------
+--------
+--------
+♙♙♙♙♙♙♙♙
+♖♘♗♔♕♗♘♖
+Modifiquem el tauler amb el següent fen: 1N1b4/6nr/R5n1/2Ppk2r/K2p2qR/8/2N1PQ2/B6B w - - 0 1
+
+Tauler modificat:
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♟--♛♖
+--------
+--♘-♙♕--
+♗------♗
+
+0) Sortir 
+1) Constructora amb valors 
+2) Get Destinació 
+3) Get Tauler 
+4) Get Peça Moguda 
+5) Set Destinació
+6) Set Peça Moguda 
+7) Set Tauler 
+8) Trobar el Rei 
+9) Moviment causa escac
+Posició del rei negre en el següent tauler: 
+♜♞♝♚♛♝♞♜
+♟♟♟♟♟♟♟♟
+--------
+--------
+--------
+--------
+♙♙♙♙♙♙♙♙
+♖♘♗♔♕♗♘♖
+Posició: 0,3
+
+0) Sortir 
+1) Constructora amb valors 
+2) Get Destinació 
+3) Get Tauler 
+4) Get Peça Moguda 
+5) Set Destinació
+6) Set Peça Moguda 
+7) Set Tauler 
+8) Trobar el Rei 
+9) Moviment causa escac
+-♘-♝----
+------♞♜
+♖-----♘-
+--♙♟♚--♜
+♔--♟--♛♖
+--------
+--♘-♙♕--
+♗------♝
+En quin valor de fila es troba la peça a moure (0,7)?
+En quin valor de columna es troba la peça a moure (0,7)?
+n
+Moviment 0: (4 ,1)
+Moviment 1: (5 ,0)
+Moviment 2: (7 ,4)
+Moviment 3: (5 ,4)
+Moviment 4: (4 ,3)
+Quin moviment voleu?
+El moviment causa escac
+
+0) Sortir 
+1) Constructora amb valors 
+2) Get Destinació 
+3) Get Tauler 
+4) Get Peça Moguda 
+5) Set Destinació
+6) Set Peça Moguda 
+7) Set Tauler 
+8) Trobar el Rei 
+9) Moviment causa escac
+Finalització del Driver Moviment

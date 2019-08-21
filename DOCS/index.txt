@@ -1,0 +1,1 @@
+El document lliurament 1.pdf conte el diagrama de casos d'us, el diagrama del model conceptual de dades,la reparticio de les classes entre els membres del grup i una breu descripcio de les funcionalitats principals.

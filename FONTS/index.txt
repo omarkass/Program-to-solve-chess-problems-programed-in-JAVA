@@ -1,0 +1,3 @@
+Aquest directori conte les classes implementades pel grup.
+Tenim 3 packages gestio, peces i programa.
+I un directori dades per a guardar els fitxers de dades.

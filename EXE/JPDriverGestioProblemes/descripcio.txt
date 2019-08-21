@@ -1,0 +1,16 @@
+·Objecte de la prova: GestioProblemes.java
+·Drivers: DriverGestioProblemes.java 
+	-Testejem la base de dades Problemes.
+		*Creant Problemes.
+		*Eliminant Problemes.
+		*Modificant Problemes.
+		*Llistant Problema amb nom=x
+		*Llistant els Problemes.
+	-Problemes no repetits (nom)
+	-BD existeix (control d'excepcions).
+	-Problema existeix 
+·Instancies de Classes: Partida, Problema.
+·Testejat amb White Box
+·Operativa:
+java -jar DriverGestioProblemes.jar
+Executar i entrar els valors de JPDriverPartida.txt

@@ -1,0 +1,15 @@
+·Objecte de la prova: Partida.java
+·Drivers: DriverPartida.java 
+	-Modifiquem el taller
+	-Consultem el tauler
+	-Comprovem la correctesa del FEN
+	-Calculem l'algoritme d'atac
+	-Calculem l'algoritme de defensa
+	-Calculem l'algoritme general
+	-Seleccionem un taller
+·Instancies de Classes: Peça, Coordinada, Tauler, Moviment.
+·Testejat amb White Box
+·Operativa:
+java -jar DriverPartida.jar 
+
+Executar i entrar els valors de JPDriverPartida.txt

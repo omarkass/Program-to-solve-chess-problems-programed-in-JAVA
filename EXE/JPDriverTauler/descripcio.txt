@@ -1,0 +1,12 @@
+·Objecte de la prova: Tauler.java
+·Drivers: DriverTauler.java 
+	-Comprovem la constructora per defecte.
+	-Comprovem les consultores.
+	-Emplenem el tauler d'inici.
+	-Emplenem el tauler amb un FEN.
+
+·Instancies de Classes: Peça, Moviment,Coordinada.
+·Testejat amb White Box
+·Operativa:
+java -jar DriverTauler.jar <JPDriverTaulerEntrada.txt >out.txt
+diff -w out.txt JPDriverTaulerSortida.txt

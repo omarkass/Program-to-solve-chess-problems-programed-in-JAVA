@@ -1,0 +1,57 @@
+Driver Tauler
+Eligueix quin métode vols comprovar: 
+
+0) Sortit 
+1) Constructora 
+2) Consultora casella 
+3) Emplenar tauler inici 
+4) Emplenar tauler amb FEN 
+Creació d'un tauler de 8x8 caselles.
+
+0) Sortit 
+1) Constructora 
+2) Consultora casella 
+3) Emplenar tauler inici 
+4) Emplenar tauler amb FEN 
+♜♞♝♚♛♝♞♜
+♟♟♟♟♟♟♟♟
+--------
+--------
+--------
+--------
+♙♙♙♙♙♙♙♙
+♖♘♗♔♕♗♘♖
+
+0) Sortit 
+1) Constructora 
+2) Consultora casella 
+3) Emplenar tauler inici 
+4) Emplenar tauler amb FEN 
+Quin valor de fila voleu comprovar?
+Quin valor de columna voleu comprovar?
+Retorn de Casella amb fila 0 i casella 0
+r
+NEGRE
+
+0) Sortit 
+1) Constructora 
+2) Consultora casella 
+3) Emplenar tauler inici 
+4) Emplenar tauler amb FEN 
+Creació d'un tauler de 8x8 caselles.
+Entra el FEN
+-♘-♝----
+------♞♜
+♖-----♞-
+--♙♟♚--♜
+♔--♟--♛♖
+--------
+--♘-♙♕--
+♗------♗
+
+0) Sortit 
+1) Constructora 
+2) Consultora casella 
+3) Emplenar tauler inici 
+4) Emplenar tauler amb FEN 
+Finalització del Driver Tauler
